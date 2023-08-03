@@ -1,2 +1,1 @@
-#A To-Do List web application I developed at codeClause internship.
-
+#A simple To-Do List web application.
